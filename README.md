@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
@@ -36,6 +38,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
