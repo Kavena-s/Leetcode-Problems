@@ -57,6 +57,7 @@
 | [0069-sqrtx](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0415-add-strings](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0507-perfect-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1031-add-to-array-form-of-integer) |
@@ -96,6 +97,7 @@
 | [0242-valid-anagram](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0742-to-lower-case) |
 | [1894-merge-strings-alternately](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [2727-number-of-senior-citizens](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2727-number-of-senior-citizens) |
@@ -182,4 +184,8 @@
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
