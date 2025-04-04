@@ -14,6 +14,7 @@
 | [0136-single-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0283-move-zeroes) |
@@ -51,6 +52,7 @@
 | [0050-powx-n](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1031-add-to-array-form-of-integer) |
 ## Two Pointers
 |  |
@@ -61,6 +63,7 @@
 | [0075-sort-colors](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0392-is-subsequence) |
