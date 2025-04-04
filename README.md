@@ -23,6 +23,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 ## Hash Table
 |  |
 | ------- |
