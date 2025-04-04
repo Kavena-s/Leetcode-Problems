@@ -66,6 +66,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -86,6 +87,7 @@
 | [0058-length-of-last-word](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0742-to-lower-case](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0742-to-lower-case) |
 | [1894-merge-strings-alternately](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
