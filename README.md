@@ -57,6 +57,7 @@
 | [0069-sqrtx](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0507-perfect-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0507-perfect-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
