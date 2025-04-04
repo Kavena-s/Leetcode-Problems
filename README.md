@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0069-sqrtx) |
 ## Two Pointers
@@ -95,6 +96,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0136-single-number) |
 ## Recursion
 |  |
