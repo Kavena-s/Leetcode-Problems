@@ -22,6 +22,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -88,6 +89,7 @@
 | [0242-valid-anagram](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
