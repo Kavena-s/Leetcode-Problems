@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0055-jump-game) |
@@ -46,6 +47,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0069-sqrtx) |
 ## String
 |  |
@@ -77,6 +79,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
