@@ -25,6 +25,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1791-richest-customer-wealth](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2486-most-frequent-even-element](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2486-most-frequent-even-element) |
 | [2727-number-of-senior-citizens](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2727-number-of-senior-citizens) |
@@ -171,4 +172,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
