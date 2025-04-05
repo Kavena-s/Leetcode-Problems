@@ -70,6 +70,7 @@
 | [0507-perfect-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1031-add-to-array-form-of-integer](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1031-add-to-array-form-of-integer) |
+| [1236-n-th-tribonacci-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -135,6 +136,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [1236-n-th-tribonacci-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -187,6 +189,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
 ## Enumeration
 |  |
 | ------- |
