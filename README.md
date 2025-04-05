@@ -64,6 +64,7 @@
 | [0070-climbing-stairs](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0504-base-7) |
