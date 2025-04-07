@@ -18,6 +18,7 @@
 | [0189-rotate-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -49,6 +50,7 @@
 | [0169-majority-element](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -65,6 +67,7 @@
 | [0189-rotate-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0504-base-7) |
@@ -97,6 +100,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -125,6 +129,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -179,6 +184,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
