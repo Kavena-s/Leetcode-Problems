@@ -37,6 +37,7 @@
 | [1791-richest-customer-wealth](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2122-count-special-quadruplets](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2122-count-special-quadruplets) |
 | [2350-find-closest-number-to-zero](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2350-find-closest-number-to-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2486-most-frequent-even-element](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2486-most-frequent-even-element) |
@@ -65,6 +66,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2122-count-special-quadruplets](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2486-most-frequent-even-element](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2486-most-frequent-even-element) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -224,6 +226,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2122-count-special-quadruplets](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Sliding Window
