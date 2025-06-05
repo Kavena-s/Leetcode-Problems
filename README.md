@@ -46,6 +46,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3723-sum-of-good-numbers](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3723-sum-of-good-numbers) |
 ## Hash Table
 |  |
@@ -81,6 +82,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
 | ------- |
