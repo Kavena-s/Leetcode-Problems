@@ -73,6 +73,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2122-count-special-quadruplets) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2486-most-frequent-even-element](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2502-sort-the-people) |
@@ -149,6 +150,7 @@
 | [0415-add-strings](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0742-to-lower-case) |
 | [1894-merge-strings-alternately](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2502-sort-the-people](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2727-number-of-senior-citizens) |
@@ -197,6 +199,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0169-majority-element) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2486-most-frequent-even-element](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
