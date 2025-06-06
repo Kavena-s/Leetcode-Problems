@@ -62,6 +62,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
+| [3221-find-the-peaks](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -274,6 +275,7 @@
 | [2122-count-special-quadruplets](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3221-find-the-peaks](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3221-find-the-peaks) |
 ## Sliding Window
 |  |
 | ------- |
