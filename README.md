@@ -150,6 +150,7 @@
 | [0415-add-strings](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0742-to-lower-case) |
 | [1894-merge-strings-alternately](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
+| [2365-percentage-of-letter-in-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2365-percentage-of-letter-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2502-sort-the-people](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
