@@ -121,6 +121,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -150,6 +151,7 @@
 | [0415-add-strings](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0742-to-lower-case) |
 | [1894-merge-strings-alternately](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2365-percentage-of-letter-in-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2365-percentage-of-letter-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2401-count-asterisks](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2401-count-asterisks) |
@@ -218,6 +220,7 @@
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [2128-reverse-prefix-of-word](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
