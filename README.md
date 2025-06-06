@@ -64,6 +64,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3723-sum-of-good-numbers](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3723-sum-of-good-numbers) |
 ## Hash Table
 |  |
@@ -107,6 +108,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
