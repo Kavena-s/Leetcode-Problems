@@ -109,6 +109,7 @@
 | [0258-add-digits](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0504-base-7) |
@@ -304,4 +305,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0258-add-digits) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
