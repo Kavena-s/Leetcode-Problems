@@ -61,6 +61,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3194-find-words-containing-character](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -142,6 +143,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Binary Search
 |  |
 | ------- |
