@@ -198,6 +198,7 @@
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
+| [3636-check-balanced-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3636-check-balanced-string) |
 ## Sorting
 |  |
 | ------- |
