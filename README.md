@@ -123,6 +123,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1448-maximum-69-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -233,6 +234,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1448-maximum-69-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1448-maximum-69-number) |
 ## Divide and Conquer
 |  |
 | ------- |
