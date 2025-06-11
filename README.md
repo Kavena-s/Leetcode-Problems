@@ -45,6 +45,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
+| [1603-running-sum-of-1d-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1656-count-good-triplets](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1656-count-good-triplets) |
 | [1791-richest-customer-wealth](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1975-minimum-distance-to-the-target-element) |
@@ -331,4 +332,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0292-nim-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
