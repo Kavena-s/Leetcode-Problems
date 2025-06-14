@@ -36,6 +36,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -275,6 +276,7 @@
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0682-baseball-game](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [2128-reverse-prefix-of-word](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
@@ -325,6 +327,7 @@
 | [0258-add-digits](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
+| [0682-baseball-game](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0682-baseball-game) |
 ## Number Theory
 |  |
 | ------- |
