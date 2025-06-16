@@ -60,6 +60,7 @@
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2122-count-special-quadruplets) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2350-find-closest-number-to-zero](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2350-find-closest-number-to-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
