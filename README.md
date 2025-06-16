@@ -61,6 +61,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2122-count-special-quadruplets) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2350-find-closest-number-to-zero](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2350-find-closest-number-to-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
@@ -262,6 +263,7 @@
 | [0561-array-partition](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1448-maximum-69-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1448-maximum-69-number) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Divide and Conquer
 |  |
