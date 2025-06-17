@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0075-sort-colors) |
@@ -125,6 +126,7 @@
 | [0007-reverse-integer](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0069-sqrtx) |
@@ -351,6 +353,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0498-diagonal-traverse](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [1791-richest-customer-wealth](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 ## Simulation
