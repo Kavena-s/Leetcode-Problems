@@ -374,4 +374,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0561-array-partition) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
