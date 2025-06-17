@@ -228,6 +228,7 @@
 | [2502-sort-the-people](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2727-number-of-senior-citizens) |
+| [2887-sort-vowels-in-a-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
 | [3636-check-balanced-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3636-check-balanced-string) |
 ## Sorting
@@ -254,6 +255,7 @@
 | [2502-sort-the-people](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2836-neither-minimum-nor-maximum) |
+| [2887-sort-vowels-in-a-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
