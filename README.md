@@ -12,6 +12,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0075-sort-colors) |
@@ -363,6 +364,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0861-flipping-an-image) |
@@ -370,6 +372,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
