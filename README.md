@@ -73,6 +73,7 @@
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2122-count-special-quadruplets) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -240,6 +241,7 @@
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2365-percentage-of-letter-in-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2365-percentage-of-letter-in-string) |
@@ -392,6 +394,7 @@
 | [0498-diagonal-traverse](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0861-flipping-an-image) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Number Theory
 |  |
 | ------- |
