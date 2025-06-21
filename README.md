@@ -162,6 +162,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1448-maximum-69-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -308,6 +309,7 @@
 | [1448-maximum-69-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1448-maximum-69-number) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
