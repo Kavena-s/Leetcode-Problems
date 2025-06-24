@@ -19,6 +19,7 @@
 | [0055-jump-game](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0217-contains-duplicate) |
@@ -395,6 +397,7 @@
 | [0048-rotate-image](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0861-flipping-an-image) |
