@@ -80,6 +80,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2350-find-closest-number-to-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2486-most-frequent-even-element](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2486-most-frequent-even-element) |
@@ -197,6 +198,7 @@
 | [1894-merge-strings-alternately](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3165-find-indices-with-index-and-value-difference-i) |
