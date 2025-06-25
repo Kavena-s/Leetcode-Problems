@@ -41,6 +41,7 @@
 | [0268-missing-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -445,6 +446,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 ## Counting Sort
 |  |
@@ -468,4 +470,8 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0463-island-perimeter) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
