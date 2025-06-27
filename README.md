@@ -55,6 +55,7 @@
 | [0561-array-partition](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0598-range-addition-ii](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -175,6 +176,7 @@
 | [0415-add-strings](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0507-perfect-number) |
+| [0598-range-addition-ii](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1031-add-to-array-form-of-integer](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
