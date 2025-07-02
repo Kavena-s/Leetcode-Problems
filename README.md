@@ -287,6 +287,7 @@
 | [2727-number-of-senior-citizens](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2727-number-of-senior-citizens) |
 | [2887-sort-vowels-in-a-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
+| [3617-find-the-original-typed-string-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3636-check-balanced-string) |
 ## Sorting
 |  |
