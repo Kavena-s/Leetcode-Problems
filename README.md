@@ -134,6 +134,7 @@
 | [0290-word-pattern](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -266,6 +267,7 @@
 | [0299-bulls-and-cows](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0415-add-strings) |
@@ -368,6 +370,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
