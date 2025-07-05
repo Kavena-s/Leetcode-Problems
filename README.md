@@ -273,6 +273,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0742-to-lower-case](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0742-to-lower-case) |
