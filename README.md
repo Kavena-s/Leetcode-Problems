@@ -49,6 +49,7 @@
 | [0455-assign-cookies](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0506-relative-ranks) |
@@ -139,6 +140,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -396,6 +398,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [2128-reverse-prefix-of-word](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
@@ -403,6 +406,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Bit Manipulation
 |  |
