@@ -107,6 +107,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2727-number-of-senior-citizens) |
+| [2785-semi-ordered-permutation](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2785-semi-ordered-permutation) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -475,6 +476,7 @@
 | [0898-transpose-matrix](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [2048-build-array-from-permutation](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2785-semi-ordered-permutation](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2785-semi-ordered-permutation) |
 ## Number Theory
 |  |
 | ------- |
