@@ -150,6 +150,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2122-count-special-quadruplets) |
@@ -288,6 +289,7 @@
 | [0979-di-string-match](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0979-di-string-match) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1205-defanging-an-ip-address) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1970-sorting-the-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -329,6 +331,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1970-sorting-the-sentence](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1970-sorting-the-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2502-sort-the-people) |
@@ -382,6 +385,7 @@
 | [0383-ransom-note](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
