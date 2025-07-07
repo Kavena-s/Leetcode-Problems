@@ -112,6 +112,7 @@
 | [2844-sum-of-squares-of-special-elements](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
@@ -305,6 +306,7 @@
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2727-number-of-senior-citizens) |
 | [2887-sort-vowels-in-a-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
 | [3617-find-the-original-typed-string-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3636-check-balanced-string) |
