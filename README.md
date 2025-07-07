@@ -107,6 +107,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2727-number-of-senior-citizens) |
+| [2756-buy-two-chocolates](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2756-buy-two-chocolates) |
 | [2785-semi-ordered-permutation](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2785-semi-ordered-permutation) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -338,6 +339,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2756-buy-two-chocolates](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [2887-sort-vowels-in-a-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -372,6 +374,7 @@
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2715-k-items-with-the-maximum-sum) |
+| [2756-buy-two-chocolates](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2756-buy-two-chocolates) |
 ## Divide and Conquer
 |  |
 | ------- |
