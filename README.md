@@ -65,6 +65,7 @@
 | [0682-baseball-game](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0792-binary-search) |
+| [0822-unique-morse-code-words](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0890-lemonade-change) |
@@ -151,6 +152,7 @@
 | [0575-distribute-candies](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0822-unique-morse-code-words) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -290,6 +292,7 @@
 | [0742-to-lower-case](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0812-rotate-string) |
+| [0822-unique-morse-code-words](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0822-unique-morse-code-words) |
 | [0953-reverse-only-letters](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0979-di-string-match) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
