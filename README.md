@@ -190,6 +190,7 @@
 | [0342-power-of-four](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0507-perfect-number) |
@@ -285,6 +286,7 @@
 | [0383-ransom-note](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0500-keyboard-row) |
@@ -440,6 +442,7 @@
 | [0338-counting-bits](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 ## Recursion
