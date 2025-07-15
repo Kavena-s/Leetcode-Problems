@@ -42,6 +42,7 @@
 | [0283-move-zeroes](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0349-intersection-of-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -281,6 +282,7 @@
 | [0242-valid-anagram](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0299-bulls-and-cows) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0383-ransom-note) |
@@ -439,6 +441,7 @@
 | [0136-single-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
