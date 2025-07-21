@@ -77,6 +77,7 @@
 | [0979-di-string-match](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1031-add-to-array-form-of-integer) |
+| [1044-find-common-characters](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1293-three-consecutive-odds](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -155,6 +156,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0822-unique-morse-code-words) |
+| [1044-find-common-characters](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -302,6 +304,7 @@
 | [0822-unique-morse-code-words](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0822-unique-morse-code-words) |
 | [0953-reverse-only-letters](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0979-di-string-match) |
+| [1044-find-common-characters](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
