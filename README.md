@@ -302,6 +302,7 @@
 | [0822-unique-morse-code-words](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0822-unique-morse-code-words) |
 | [0953-reverse-only-letters](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0979-di-string-match) |
+| [1078-remove-outermost-parentheses](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1205-defanging-an-ip-address) |
@@ -431,6 +432,7 @@
 | [0496-next-greater-element-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [1078-remove-outermost-parentheses](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
