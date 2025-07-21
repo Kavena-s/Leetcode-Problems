@@ -309,6 +309,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1205-defanging-an-ip-address) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1542-consecutive-characters](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1542-consecutive-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
