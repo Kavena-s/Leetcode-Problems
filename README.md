@@ -80,6 +80,7 @@
 | [1044-find-common-characters](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1293-three-consecutive-odds](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1395-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -204,6 +205,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -515,6 +517,7 @@
 | [0682-baseball-game](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0898-transpose-matrix) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
