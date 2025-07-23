@@ -218,6 +218,7 @@
 | [2556-convert-the-temperature](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2556-convert-the-temperature) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2715-k-items-with-the-maximum-sum) |
+| [2752-sum-multiples](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2752-sum-multiples) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
