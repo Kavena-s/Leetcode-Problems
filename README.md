@@ -95,6 +95,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1656-count-good-triplets) |
+| [1677-matrix-diagonal-sum](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [1944-truncate-sentence](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1944-truncate-sentence) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1975-minimum-distance-to-the-target-element) |
@@ -512,6 +513,7 @@
 | [0498-diagonal-traverse](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0898-transpose-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
