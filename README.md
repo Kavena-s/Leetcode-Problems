@@ -71,6 +71,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0898-transpose-matrix) |
+| [0909-stone-game](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0958-sort-array-by-parity-ii) |
@@ -207,6 +208,7 @@
 | [0507-perfect-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0909-stone-game](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0909-stone-game) |
 | [1031-add-to-array-form-of-integer](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
@@ -392,6 +394,7 @@
 | [0152-maximum-product-subarray](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [0909-stone-game](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0909-stone-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1362-airplane-seat-assignment-probability) |
 ## Greedy
@@ -550,6 +553,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0292-nim-game) |
+| [0909-stone-game](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0909-stone-game) |
 ## Prefix Sum
 |  |
 | ------- |
