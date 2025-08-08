@@ -80,6 +80,7 @@
 | [1044-find-common-characters](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1293-three-consecutive-odds](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1395-minimum-time-visiting-all-points) |
@@ -209,6 +210,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1362-airplane-seat-assignment-probability) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1395-minimum-time-visiting-all-points) |
@@ -600,6 +602,7 @@
 ## Geometry
 |  |
 | ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1395-minimum-time-visiting-all-points) |
 ## Probability and Statistics
 |  |
