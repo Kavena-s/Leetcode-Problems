@@ -206,6 +206,7 @@
 | [0371-sum-of-two-integers](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0598-range-addition-ii) |
@@ -287,6 +288,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
