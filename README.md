@@ -209,6 +209,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1362-airplane-seat-assignment-probability) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -390,6 +391,7 @@
 | [0338-counting-bits](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1362-airplane-seat-assignment-probability) |
 ## Greedy
 |  |
 | ------- |
@@ -541,6 +543,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0292-nim-game) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1362-airplane-seat-assignment-probability) |
 ## Game Theory
 |  |
 | ------- |
@@ -598,4 +601,8 @@
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1395-minimum-time-visiting-all-points) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1362-airplane-seat-assignment-probability](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1362-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
