@@ -101,6 +101,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [1839-decode-xored-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1839-decode-xored-array) |
+| [1899-count-items-matching-a-rule](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1944-truncate-sentence) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2048-build-array-from-permutation](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
@@ -336,6 +337,7 @@
 | [1651-shuffle-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1651-shuffle-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
+| [1899-count-items-matching-a-rule](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1944-truncate-sentence) |
 | [1970-sorting-the-sentence](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1970-sorting-the-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
