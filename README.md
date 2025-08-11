@@ -100,6 +100,7 @@
 | [1656-count-good-triplets](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
+| [1839-decode-xored-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1839-decode-xored-array) |
 | [1944-truncate-sentence](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1944-truncate-sentence) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2048-build-array-from-permutation](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
@@ -487,6 +488,7 @@
 | [0861-flipping-an-image](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1610-xor-operation-in-an-array) |
+| [1839-decode-xored-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1839-decode-xored-array) |
 ## Recursion
 |  |
 | ------- |
