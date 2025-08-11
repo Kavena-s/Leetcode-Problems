@@ -336,6 +336,7 @@
 | [1542-consecutive-characters](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1651-shuffle-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
+| [1797-goal-parser-interpretation](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1944-truncate-sentence) |
