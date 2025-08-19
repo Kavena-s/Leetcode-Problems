@@ -228,6 +228,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1610-xor-operation-in-an-array) |
+| [1806-count-of-matches-in-tournament](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2556-convert-the-temperature](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2556-convert-the-temperature) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -551,6 +552,7 @@
 | [0898-transpose-matrix](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1505-create-target-array-in-the-given-order) |
+| [1806-count-of-matches-in-tournament](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
