@@ -53,6 +53,7 @@
 | [0496-next-greater-element-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0500-keyboard-row) |
+| [0503-next-greater-element-ii](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0575-distribute-candies) |
@@ -468,6 +469,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
@@ -477,6 +479,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Bit Manipulation
 |  |
