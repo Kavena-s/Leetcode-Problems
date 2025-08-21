@@ -325,6 +325,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0686-repeated-string-match](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0686-repeated-string-match) |
 | [0742-to-lower-case](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0812-rotate-string) |
@@ -509,6 +510,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0812-rotate-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Memoization
