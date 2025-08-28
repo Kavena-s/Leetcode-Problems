@@ -490,6 +490,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
@@ -642,6 +643,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 ## Queue
