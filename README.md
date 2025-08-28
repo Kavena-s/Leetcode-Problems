@@ -107,6 +107,7 @@
 | [1839-decode-xored-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1839-decode-xored-array) |
 | [1899-count-items-matching-a-rule](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1944-truncate-sentence) |
+| [1961-maximum-ice-cream-bars](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2048-build-array-from-permutation](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -404,6 +405,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
+| [1961-maximum-ice-cream-bars](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [1970-sorting-the-sentence](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1970-sorting-the-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2502-sort-the-people) |
@@ -444,6 +446,7 @@
 | [0917-boats-to-save-people](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0979-di-string-match) |
 | [1448-maximum-69-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1448-maximum-69-number) |
+| [1961-maximum-ice-cream-bars](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -608,6 +611,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0561-array-partition) |
+| [1961-maximum-ice-cream-bars](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Database
 |  |
