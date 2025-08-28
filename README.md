@@ -144,6 +144,7 @@
 | [3221-find-the-peaks](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3321-type-of-triangle](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3321-type-of-triangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -242,6 +243,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2752-sum-multiples](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2752-sum-multiples) |
+| [3321-type-of-triangle](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -409,6 +411,7 @@
 | [2836-neither-minimum-nor-maximum](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [2887-sort-vowels-in-a-string](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3321-type-of-triangle](https://github.com/Kavena-s/Leetcode-Problems/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
