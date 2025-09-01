@@ -499,6 +499,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
@@ -646,6 +647,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0463-island-perimeter](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
@@ -690,4 +692,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
