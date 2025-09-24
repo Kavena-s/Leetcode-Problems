@@ -69,6 +69,7 @@
 | [0682-baseball-game](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-min-cost-climbing-stairs](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0861-flipping-an-image) |
@@ -438,6 +439,7 @@
 | [0152-maximum-product-subarray](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0909-stone-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1362-airplane-seat-assignment-probability) |
