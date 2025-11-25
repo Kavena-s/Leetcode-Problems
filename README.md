@@ -662,6 +662,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0463-island-perimeter](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0463-island-perimeter) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -714,6 +715,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -723,6 +725,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
