@@ -310,6 +310,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -529,6 +530,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0318-maximum-product-of-word-lengths) |
@@ -714,6 +716,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
@@ -724,6 +727,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
