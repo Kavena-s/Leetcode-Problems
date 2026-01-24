@@ -106,6 +106,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 | [1839-decode-xored-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1839-decode-xored-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1899-count-items-matching-a-rule](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1944-truncate-sentence) |
 | [1961-maximum-ice-cream-bars](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1961-maximum-ice-cream-bars) |
@@ -291,6 +292,7 @@
 | [0979-di-string-match](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
@@ -418,6 +420,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [1970-sorting-the-sentence](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1970-sorting-the-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -460,6 +463,7 @@
 | [0917-boats-to-save-people](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/Kavena-s/Leetcode-Problems/tree/master/0979-di-string-match) |
 | [1448-maximum-69-number](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1448-maximum-69-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/Kavena-s/Leetcode-Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Kavena-s/Leetcode-Problems/tree/master/2199-two-furthest-houses-with-different-colors) |
